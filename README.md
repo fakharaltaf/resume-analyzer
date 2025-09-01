@@ -1,10 +1,10 @@
-# 🧠 Resume & Skill Gap Analyzer
+# Resume & Skill Gap Analyzer
 
 A Flask-based machine learning web app that classifies resumes and recommends jobs based on skill matching using cosine similarity and NLP.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Upload and analyze resume text
 - Predict the category (e.g., Aviation, Software)
@@ -13,7 +13,7 @@ A Flask-based machine learning web app that classifies resumes and recommends jo
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 resume-skill-gap-analyzer/
 ├── app.py
@@ -34,7 +34,7 @@ resume-skill-gap-analyzer/
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 1. Clone this repository:
 
@@ -76,5 +76,6 @@ tfidf_vectorizer.pkl
 python app.py
 
 ---
+
 
 6. Visit: http://127.0.0.1:5000
